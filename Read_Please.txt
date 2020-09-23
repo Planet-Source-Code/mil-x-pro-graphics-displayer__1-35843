@@ -1,0 +1,7 @@
+NOTE : SOME OF THE CODES IN THIS PROJECT ARE NOT MINE, SO THE CREDITS SHOULD GO THEM. SORRY FOR NOT MENTION YOUR NAME, AND THANKS FOR YOU WILLINGNESS TO SHARE YOURS.
+
+This is a common window's picture file formats viewer using streatchblt. It have zoomin/out, stretch, exact size and built-in slide. Also simple file management such as copy, rename and delete. Actually I wrote this project in attempt to compare the advantage of Stretchblt vs paintpicture and I thought it maybe useful to you. Feedback, comment, critics, idea are welcome.
+
+regard
+Mil-X Pro
+14.06.2002
